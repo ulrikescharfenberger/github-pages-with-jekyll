@@ -3,4 +3,4 @@ title: "Carpe Diem"
 date: 2020-06-29
 ---
 
-To day was an other suggesfull day, in which the world proofed hom mediocre it is.
+Today was another successful day, in which the world proofed how mediocre it is.
